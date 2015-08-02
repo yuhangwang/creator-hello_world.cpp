@@ -11,3 +11,4 @@ This is an example C++ project that can be built with [Creator][]. Do:
     creator: running task 'hello_world:run'
     Hello, World!
 
+[Creator]: https://github.com/creator-build/creator
