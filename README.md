@@ -1,4 +1,4 @@
-Hello World! with Creator (C++)
+Hello, World! with Creator (C++)
 ===============================
 
 This is an example C++ project that can be built with [Creator][]. Do:
