@@ -1,3 +1,5 @@
+# @creator.unit.name = creator.hello_world.cpp
+
 load('platform', 'p')
 load('compiler', 'c')
 
